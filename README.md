@@ -1,5 +1,5 @@
-# mynote
-#### 学习记录
+# blog
+#### 学习笔记
 > Keep learning
 
-![背景](./static/a.jpeg)
+![背景](./assets/images/a.jpeg)
